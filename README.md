@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-<center>- 🔭 I’m currently working on ...</center>
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 My name is Joseph Martins and ...:
 
- - 😄 I really like to learn
+ <center>- 😄 I really like to learn</enter>
  - 📊 I'm working with Business Intelligence
  - 📚 Currently studying Azure and LGPD
  - 🌍 And I also like to travel
