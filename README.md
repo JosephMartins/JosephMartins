@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-martins-04093115a/)](https://www.linkedin.com/in/jos%C3%A9-martins-04093115a/)
 
 
-### Hellooo! 👋 Welcome to my profile
+### Olaaaa! 👋 Bem vindo ao meu Profile 
 
-My name is Joseph Martins and ...:
+Meu nome é Jose Martins e...:
 
- - 😄 I really like to learn
- - 📊 I'm working with Web development
- - 📚 Currently studying Redux and NodeJS
- - 🌍 And I also like to travel
- - 🤔 And I would like to work with ReactJS and NodeJS technologies
- - ⚡ I really like the back end but I adapt very well to the front end, haha ⚡
+ - 😄 Eu gosto muito de aprender
+ - 📊 Eu gostaria de trablhar com desenvolvimento web
+ - 📚 Atualmente estou estudando NodeJS e Redux
+ - 🌍 E gosto muito de viajar 
+ - 🤔 E eu gostaria de trabalhar com as tecnologias ReactJS e NodeJS mas possuo experiencia com PHP 
+ - ⚡ Gosto muito de back-end, mas me adapto muito bem ao front end, haha ⚡
  
