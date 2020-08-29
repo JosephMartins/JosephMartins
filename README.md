@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 My name is Joseph Martins and ...:
 
- <center>- 😄 I really like to learn</enter>
+ <center>- 😄 I really like to learn
  - 📊 I'm working with Business Intelligence
  - 📚 Currently studying Azure and LGPD
- - 🌍 And I also like to travel
+ - 🌍 And I also like to travel</enter>
