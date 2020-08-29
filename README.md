@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 
 My name is Joseph Martins and ...:
 
- <center>- 😄 I really like to learn
- - 📊 I'm working with Business Intelligence
- - 📚 Currently studying Azure and LGPD
- - 🌍 And I also like to travel</enter>
+ - 😄 I really like to learn
+ - 📊 I'm working with Web development
+ - 📚 Currently studying Redux and NodeJS
+ - 🌍 And I also like to travel
+ - 🤔 And I would like to work with ReactJS and NodeJS technologies
+ - ⚡ I really like the back end but I adapt very well to the front end, haha ⚡
+ 
