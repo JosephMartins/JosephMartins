@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-martins-04093115a/)](https://www.linkedin.com/in/jos%C3%A9-martins-04093115a/)
 
 
-### Olaaaa! 👋 Bem vindo ao meu Profile 
+### Olaaaa! 👋 Bem vindo ao meu GitHub 
 
 Meu nome é Jose Martins e...:
 
