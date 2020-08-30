@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 Meu nome é Jose Martins e...:
 
  - 😄 Eu gosto muito de aprender
- - 📊 Eu gostaria de trablhar com desenvolvimento web
+ - 📊 Tenho como objetivo me realocar ao mercado de dev web
  - 📚 Atualmente estou estudando NodeJS e Redux
  - 🌍 E gosto muito de viajar 
  - 🤔 E eu gostaria de trabalhar com as tecnologias ReactJS e NodeJS mas possuo experiencia com PHP 
