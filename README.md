@@ -45,6 +45,5 @@ Meu nome é Jose Martins e...:
  - 📊 Sou desenvolvedor front-end utilizando ReactJS como skill principal
  - 📚 Atualmente estou estudando  Redux
  - 🌍 E gosto muito de viajar 
- - 🤔 E eu gostaria de trabalhar com as tecnologias ReactJS e NodeJS mas possuo experiencia com PHP 
  - ⚡ Gosto muito de back-end, mas me adapto muito bem ao front end, haha ⚡
  
