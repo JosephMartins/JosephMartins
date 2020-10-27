@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 Meu nome é Jose Martins e...:
 
  - 😄 Eu gosto muito de aprender
- - 📊 Tenho como objetivo me realocar ao mercado de dev web
- - 📚 Atualmente estou estudando NodeJS e Redux
+ - 📊 Sou desenvolvedor front-end utilizando ReactJS como skill principal
+ - 📚 Atualmente estou estudando  Redux
  - 🌍 E gosto muito de viajar 
  - 🤔 E eu gostaria de trabalhar com as tecnologias ReactJS e NodeJS mas possuo experiencia com PHP 
  - ⚡ Gosto muito de back-end, mas me adapto muito bem ao front end, haha ⚡
