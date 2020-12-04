@@ -1,49 +1,27 @@
+<img src="https://png.pngtree.com/element_our/20200609/ourmid/pngtree-programming-structure-image_2230269.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left"> 
+  Hello my name is Jose, I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
+  I am studying System and System Development for Internet.
+</p>
 
-<!--
-**JosephMartins/JosephMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript, ReactJS, React-native and UI/UX Design.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Figma, Adobe XD, Git and GitHub.</strong>
+</p>
 
+<p align="left">
+  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+</p>
 
-<!--
-### Hi there 👋
-**JoosephMartins/JosephMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/josemartinsmelo/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemartinsmelo" /></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Joseph Martins :man_technologist:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-martins-04093115a/)](https://www.linkedin.com/in/jos%C3%A9-martins-04093115a/)
-
-
-### Olaaaa! 👋 Bem vindo ao meu GitHub 
-
-Meu nome é Jose Martins e...:
-
- - 😄 Eu gosto muito de aprender
- - 📊 Sou desenvolvedor front-end utilizando ReactJS como skill principal
- - 📚 Atualmente estou estudando  Redux
- - 🌍 E gosto muito de viajar 
- - ⚡ Gosto muito de back-end, mas me adapto muito bem ao front end, haha ⚡
- 
+  <a href="https://www.facebook.com/profile.php?id=100008975144321" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/josephmartins/"/></a>
+</p>  
