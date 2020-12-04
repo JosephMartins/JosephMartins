@@ -1,4 +1,4 @@
-<img src="https://png.pngtree.com/element_our/20200609/ourmid/pngtree-programming-structure-image_2230269.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://png.pngtree.com/png-vector/20190120/ourmid/pngtree-desktop-pc-computer-desktop-computer-png-image_484500.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello my name is Jose, I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
