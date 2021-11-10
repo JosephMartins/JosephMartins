@@ -1,16 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is Jose, I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
-  I am studying System and System Development for Internet.
+  Hello my name is Jose, I am <strong>Front-end Developer.<br>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript, ReactJS, React-native and UI/UX Design.</strong>
+   Skills: <strong>ReactJS/NextJS, Typescript, Redux/Redux-Saga, Pre-processadores(SASS, LESS, Styled-components), NestJS, NodeJS.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma, Adobe XD, Git and GitHub.</strong>
+  Tools: <strong>Git, Azure, Jira, Agile(scrum), Storybook</strong>
 </p>
 
 <p align="left">
