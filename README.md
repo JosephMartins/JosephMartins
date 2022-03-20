@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-   Skills: <strong>ReactJS/NextJS, Typescript, Redux/Redux-Saga, Pre-processadores(SASS, LESS, Styled-components), NestJS, NodeJS.</strong>
+    <strong>Skills: </strong> ReactJS/NextJS, Typescript, Redux/Redux-Saga, Pre-processadores(SASS, LESS, Styled-components), NestJS, NodeJS.
 </p>
 
 <p align="left">
-  Tools: <strong>Git, Azure, Jira, Agile(scrum), Storybook</strong>
+  <strong>Tools: </strong> Git, Azure, Jira, Agile(scrum), Storybook
 </p>
 
 <p align="left">
