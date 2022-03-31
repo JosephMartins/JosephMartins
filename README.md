@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **martins.josemn@gmail.com**
 
-- ⚡ Fun fact **I love play games in computer and video games(console)**
+- ⚡ Fun fact **I love play games in computer and console**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
