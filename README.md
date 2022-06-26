@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Martins</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer, i live in Brazil</h3>
 
 - 🔭 I’m currently working on [Keeggo](https://keeggo.com/) and [Drhoje](https://drhoje.com/)
 
